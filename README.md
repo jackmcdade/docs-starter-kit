@@ -13,7 +13,7 @@
 ![Screenshot](./screenshot.png)
 
 ## Quick Start
-TODO
+Until I get a docs site up for the docs site, you can [read install instructions here](./content/collections/pages/installation.md).
 
 ## Contributing
-TODO
+Again, until I get a docs site up for the docs site, you can [read contribution stuffs here](./content/collections/pages/contributing.md).
