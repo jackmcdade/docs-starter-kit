@@ -11,7 +11,7 @@ As long as you've got that installed, along with the other requirements, just ru
 
 **1. Create a new site** by cloning the repo and removing the Gitness
 ```
-git clone TODO docs-site
+git clone git@github.com:doublethreedigital/docs-starter-kit docs-site
 cd docs-site
 rm -rf .git
 composer install
