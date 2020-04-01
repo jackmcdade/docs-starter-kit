@@ -1,5 +1,5 @@
 {
-    "name": "statamic/statamic",
+    "name": "doublethreedigital/docs-starter-kit",
     "description": "Statamic",
     "keywords": ["statamic", "cms", "flat file", "laravel"],
     "type": "project",
