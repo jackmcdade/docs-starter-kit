@@ -13,7 +13,7 @@
 ![Screenshot](./screenshot.png)
 
 ## Quick Start
-Until I get a docs site up for the docs site, you can [read install instructions here](./content/collections/pages/installation.md).
+You can read the [install instructions](https://docs-starter.doublethree.digital/installation/) on the docs.
 
 ## Contributing
-Again, until I get a docs site up for the docs site, you can [read contribution stuffs here](./content/collections/pages/contributing.md).
+You can also read the [contribution information](https://docs-starter.doublethree.digital/contributing/) on the docs.
