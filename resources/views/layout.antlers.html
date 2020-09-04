@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>{{ title }} - {{ site_name }}</title>
+    <title>{{ title }} - {{ site:name }}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -13,7 +13,7 @@
 <div id="app">
     <header id="header">
         <div class="container mx-auto flex flex-row items-center justify-between border-b-2 border-gray-200 p-4 mb-6">
-            <a href="/" class="block font-bold text-gray-700 hover:text-gray-700 text-xl">{{ site_name }}</a>
+            <a href="/" class="block font-bold text-gray-700 hover:text-gray-700 text-xl">{{ site:name }}</a>
 
             <form class="md:w-1/2" action="/search/results">
                 <input class="w-full p-2 border-2 rounded-lg bg-white shadow-md text-gray-700 font-normal focus:outline-none focus:font-semibold" type="text" name="q" placeholder="Search the docs">
