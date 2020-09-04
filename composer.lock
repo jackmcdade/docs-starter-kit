@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "493e09f0fa787580039595005a08f795",
+    "content-hash": "0f2e1e53279fb046d9ad376da98b613b",
     "packages": [
         {
             "name": "brick/math",
@@ -3529,6 +3529,47 @@
                 }
             ],
             "time": "2020-09-04T19:07:55+00:00"
+        },
+        {
+            "name": "statamic/ssg",
+            "version": "0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/statamic/ssg.git",
+                "reference": "d82e7cd9194acffbb2ba420138166dfa1c8d13f1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/statamic/ssg/zipball/d82e7cd9194acffbb2ba420138166dfa1c8d13f1",
+                "reference": "d82e7cd9194acffbb2ba420138166dfa1c8d13f1",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "3.0.*"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^4.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Static Site Generator",
+                    "description": "Static Site Generator addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "Statamic\\StaticSite\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Statamic\\StaticSite\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Static site generator for Statamic 3.",
+            "time": "2020-08-21T21:18:00+00:00"
         },
         {
             "name": "statamic/stringy",
