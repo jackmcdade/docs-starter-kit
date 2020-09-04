@@ -1,10 +1,11 @@
-# Statamic Starter Kit: Docs
-
 ![Screenshot](./screenshot.png)
 
-![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com)
+# Statamic Starter Kit: Docs
 
+<p>
+![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com)
 [**View Demo**](https://statamic-docs-starter-kit.netlify.app/)
+</p>
 
 ## Features
 * Beautiful documentation
