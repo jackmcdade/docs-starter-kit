@@ -26,12 +26,12 @@ php please make:user
 **3. Recompile the CSS** (only if you wanna)
 This starter kit uses TailwindCSS and PurgeCSS, meaning it has a build process. 
 ```
-npm i && npm run dev
+yarn && yarn dev
 ```
 
 And if you want to do it for production:
 ```
-npm run production
+yarn prod
 ```
 
 **4. Do your thing!**
