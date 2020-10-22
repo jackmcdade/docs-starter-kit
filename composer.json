@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.3",
         "fideloper/proxy": "4.4",
-        "fruitcake/laravel-cors": "2.0",
+        "fruitcake/laravel-cors": "2.0.2",
         "guzzlehttp/guzzle": "7.2.0",
         "laravel/framework": "8.0",
         "laravel/tinker": "^2.4",
