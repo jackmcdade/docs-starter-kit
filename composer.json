@@ -1,7 +1,7 @@
 {
     "name": "doublethreedigital/docs-starter-kit",
-    "description": "Statamic",
-    "keywords": ["statamic", "cms", "flat file", "laravel"],
+    "description": "Statamic Starter Kit for beautiful documentation.",
+    "keywords": ["statamic", "documentation", "markdown", "tailwindcss", "beautiful"],
     "type": "project",
     "require": {
         "php": "^7.3",
