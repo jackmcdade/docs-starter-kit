@@ -17,7 +17,7 @@ While this starter kit itself is free and doesn't require a license, you can [op
 * Integrated with the raddest CMS
 
 ## Quick Start
-You can read the [install instructions](https://github.com/doublethreedigital/docs-starter-kit/blob/master/content/collections/pages/installation.md) on the docs.
+You can read the [install instructions](https://statamic-docs-starter-kit.netlify.app/installation) on the docs.
 
 ## Contributing
-You can also read the [contribution information](https://github.com/doublethreedigital/docs-starter-kit/blob/master/content/collections/pages/contributing.md) on the docs.
+You can also read the [contribution information](https://statamic-docs-starter-kit.netlify.app/contributing/) on the docs.
