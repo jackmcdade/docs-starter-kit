@@ -6,7 +6,7 @@
 
 This repository contains a Statamic Starter Kit for creating a documentation website. You're welcome to clone it down and start playing with it. You can view [a demo over here](https://statamic-docs-starter-kit.netlify.app/).
 
-While this starter kit itself is free and doesn't require a license, you can [optionally donate to Duncan](https://duncanm.dev/donate), the developer behind it to show your appreciation.
+While this starter kit itself is free and doesn't require a license, you can [optionally donate to Duncan](https://duncanmcclean.com/donate), the developer behind it to show your appreciation.
 
 ## Features
 * Beautiful documentation
