@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "de9e1a52ad8e2684b226450425bf4ae4",
+    "content-hash": "c85ebae0845d5c3833380afb9ada40c0",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3688,16 +3688,16 @@
         },
         {
             "name": "statamic/ssg",
-            "version": "0.6.0",
+            "version": "0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/ssg.git",
-                "reference": "2833b2d119b82c174dde110fece4b9947297cbfb"
+                "reference": "e2818155c399b2760f167f8c6be4b53e84017b6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/ssg/zipball/2833b2d119b82c174dde110fece4b9947297cbfb",
-                "reference": "2833b2d119b82c174dde110fece4b9947297cbfb",
+                "url": "https://api.github.com/repos/statamic/ssg/zipball/e2818155c399b2760f167f8c6be4b53e84017b6c",
+                "reference": "e2818155c399b2760f167f8c6be4b53e84017b6c",
                 "shasum": ""
             },
             "require": {
@@ -3730,9 +3730,9 @@
             "description": "Static site generator for Statamic 3.",
             "support": {
                 "issues": "https://github.com/statamic/ssg/issues",
-                "source": "https://github.com/statamic/ssg/tree/0.6.0"
+                "source": "https://github.com/statamic/ssg/tree/0.7.0"
             },
-            "time": "2021-04-28T19:17:00+00:00"
+            "time": "2021-06-14T18:34:11+00:00"
         },
         {
             "name": "statamic/stringy",
