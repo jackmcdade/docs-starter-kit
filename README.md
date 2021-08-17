@@ -1,6 +1,10 @@
+<!-- statamic:hide -->
+
 <h1 align="center">Starter Kit: Documentation</h1>
 
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com)
+
+<!-- /statamic:hide -->
 
 ## Features
 
